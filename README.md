@@ -1,0 +1,3 @@
+- 👋 Hi, I’m chetan
+- 👀 I’m interested in VLSI
+- 🌱 I’m currently learning tcl and perl
